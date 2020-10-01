@@ -1,0 +1,6 @@
+// The simplest way to print "Hello world"  
+print("Hello, World!")
+
+// The second best method to print "hello world" 
+my_string = "Hello, World!"
+print(my_string)
